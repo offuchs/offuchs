@@ -34,3 +34,15 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=offuchs&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offuchs&layout=compact&theme=tokyonight" />
 </p>
+
+---
+ 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/offuchs/offuchs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/offuchs/offuchs/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/offuchs/offuchs/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
