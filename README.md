@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=offuchs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offuchs&layout=compact&theme=tokyonight" />
+  <img height="200" alt="Estatísticas do GitHub de offuchs" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=offuchs&theme=tokyonight" />
+  <img height="200" alt="Linguagens mais usadas por offuchs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offuchs&theme=tokyonight" />
 </p>
 
 ---
