@@ -24,7 +24,7 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,postgres,mysql,js,html,css,cpp" />
+<img src="https://skillicons.dev/icons?i=java,postgres,mysql,js,html,css,cpp,python" />
 
 ---
 
